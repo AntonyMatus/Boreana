@@ -390,7 +390,7 @@
                 itemSelector: '.grid-item',
                 percentPosition: true,
                 stagger: 0,
-                filter: '.branding',
+                filter: '*',
                 masonry: {
                     columnWidth: '.grid-sizer',
                 }
