@@ -45,7 +45,7 @@
     .descript-respon {height: 680px;}
     .descript-respon > img {height: 680px;}
 
-    .descript-respon > .carou-pad {right: 0%; left: 0; padding-bottom: 180px; bottom: 0; padding-top: 80px;}
+    .descript-respon > .carou-pad {right: 0%; left: 0; padding-bottom: 80px; bottom: 0; padding-top: 80px;}
     .descript-respon > .carou-pad2 {right: 0%; left: 0; padding-bottom: 130px; bottom: 0;}
 
     .a-btn-oc {display: block;}
@@ -8057,21 +8057,24 @@
     .descript-respon {height: 340px;}
     .descript-respon > img {height: 230px;}
 
-    .descript-respon > .carou-pad {padding-bottom: 0; vertical-align: middle;}
+    .descript-respon > .carou-pad {padding-bottom: 0; vertical-align: middle; margin-bottom: 17px; padding-top: 0;}
     .carou-pad {padding-bottom: 0xp;}
-    .descript-respon > .carou-pad2 {padding-bottom: 0; vertical-align: middle;}
+    .descript-respon > .carou-pad2 {padding-bottom: 0; vertical-align: middle; margin-bottom: 17px; padding-top: 0;}
     .carou-pad2 {padding-bottom: 0xp;}
     
+    .responsive_orange{background-color: #C36D15;}
     .imagenes-slide {height: 25em; width: 80%;}
     .imagenes-slide > img {height: 25em; width: 80%;}
 
     .portfolio-box .portfolio-hover {width: 100%;}
 
-    .text-white2 {font-size: 25px; color: #C36D15; margin: 0; padding-bottom: 10px;}
-    .text-white3 {font-size: 10px; color: #C36D15; margin-bottom: 0;}
+    .text-white2 {font-size: 25px; color: #fff; margin: 0; padding-bottom: 10px;}
+    .text-white3 {font-size: 10px; color: #fff; margin-bottom: 0;}
     .carousel-caption{height: auto;}
 
+    .h-500px{height: auto;}
     .a-btn-oc {display: none;}
+    .d-grid2{justify-items: center;}
 
 }
 @media (max-height: 460px) {
@@ -8086,6 +8089,8 @@
     .carou-pad {padding-bottom: 0xp; }
     .descript-respon > .carou-pad2 {padding-bottom: 0; vertical-align: middle;}
     .carou-pad2 {padding-bottom: 0xp; }
+
+    
     
     
     .imagenes-slide {height: 25em; width: 80%;}
