@@ -45,21 +45,24 @@
                         <div class="collapse navbar-collapse justify-content-right" id="navbarNav">
                             <ul class="navbar-nav alt-font">
                                 <li class="nav-item dropdown megamenu">
-                                    <a href="#intro" class="nav-link text-uppercase">Introducción</a>
+                                    <a href="#intro" class="nav-link text-uppercase">Boreana</a>
                                 </li>
                                 
                                 <li class="nav-item dropdown megamenu">
-                                    <a href="#boreana" class="nav-link text-uppercase">Boreana</a>
+                                    <a href="#boreana" class="nav-link text-uppercase">Smart Townhouse</a>
                                 </li>
                                 <li class="nav-item dropdown simple-dropdown">
-                                    <a href="#Distribución" class="nav-link text-uppercase">Distribución</a>
+                                    <a href="#Distribución" class="nav-link text-uppercase">Amenidades</a>
                                 </li>
                                 <li class="nav-item dropdown simple-dropdown">
-                                    <a href="#imagenes" class="nav-link text-uppercase">Imágenes</a>
+                                    <a href="#imagenes" class="nav-link text-uppercase">Galería</a>
                                 </li>
                                 
                                 <li class="nav-item dropdown simple-dropdown">
                                     <a href="#cotizador" class="nav-link text-uppercase">Cotizador</a>
+                                </li>
+                                <li class="nav-item dropdown simple-dropdown">
+                                    <a href="#cotizador" class="nav-link text-uppercase">Ubicación</a>
                                 </li>
                             </ul>
                         </div>
