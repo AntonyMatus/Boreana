@@ -47,12 +47,11 @@
                                 <li class="nav-item dropdown megamenu">
                                     <a href="#intro" class="nav-link text-uppercase">Boreana</a>
                                 </li>
-                                
-                                <li class="nav-item dropdown megamenu">
-                                    <a href="#boreana" class="nav-link text-uppercase">Smart Townhouse</a>
-                                </li>
                                 <li class="nav-item dropdown simple-dropdown">
-                                    <a href="#Distribución" class="nav-link text-uppercase">Amenidades</a>
+                                    <a href="#boreana" class="nav-link text-uppercase">Amenidades</a>
+                                </li>
+                                <li class="nav-item dropdown megamenu">
+                                    <a href="#Distribución" class="nav-link text-uppercase">Smart Townhouse</a>
                                 </li>
                                 <li class="nav-item dropdown simple-dropdown">
                                     <a href="#imagenes" class="nav-link text-uppercase">Galería</a>
@@ -62,7 +61,7 @@
                                     <a href="#cotizador" class="nav-link text-uppercase">Cotizador</a>
                                 </li>
                                 <li class="nav-item dropdown simple-dropdown">
-                                    <a href="#cotizador" class="nav-link text-uppercase">Ubicación</a>
+                                    <a href="#ubicacion" class="nav-link text-uppercase">Ubicación</a>
                                 </li>
                             </ul>
                         </div>
@@ -74,7 +73,7 @@
         <!-- end header -->
 
 
-        <section class="p-0 sm-border-bottom border-color-black mobile-height">
+        <section class="p-0  border-color-black mobile-height">
             <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel" data-bs-touch="true">
                 
                 <div class="carousel-inner">
@@ -175,18 +174,17 @@
             </div>
             
         </section> 
-        <section class="half-section ">
+        <section class="half-section margin-four-top">
                 <div class="container">
                     <div class="row row-cols-1 row-cols-lg-4 row-cols-sm-2 justify-content-center">
                         <!-- start feature box item -->
                         <div class="col md-margin-40px-bottom xs-margin-35px-bottom wow animate__fadeIn" data-wow-delay="0.2s">
                             <div class="feature-box feature-box-left-icon-middle last-paragraph-no-margin">
                                 <div class="feature-box-icon margin-30px-right line-height-0px lg-margin-25px-right">
-                                    <i class="line-icon-Green-House icon-very-medium text-orange2"></i>
+                                    <img id="icons" src="landing/images/icons/Recurso 1.svg" >
                                 </div>
                                 <div class="feature-box-content line-height-22px">
-                                    <div class="text-white alt-font font-weight-500 line-height-20px margin-5px-bottom">1 sólo Modelo</div>
-                                    <span>Adaptado a todas tus necesidades</span>
+                                    <span>Red de Wifi integral</span>
                                 </div>
                             </div>
                         </div>
@@ -195,11 +193,10 @@
                         <div class="col md-margin-40px-bottom xs-margin-35px-bottom wow animate__fadeIn" data-wow-delay="0.4s">
                             <div class="feature-box feature-box-left-icon-middle last-paragraph-no-margin">
                                 <div class="feature-box-icon margin-30px-right line-height-0px lg-margin-25px-right">
-                                    <i class="line-icon-Tree-2 icon-very-medium text-orange2"></i>
+                                    <img id="icons" src="landing/images/icons/Recurso 2.svg" >
                                 </div>
                                 <div class="feature-box-content line-height-22px">
-                                    <div class="text-white alt-font font-weight-500 line-height-20px margin-5px-bottom">Zona residencial</div>
-                                    <span>Ubicación privilegiada, Norte de Mérida</span>
+                                    <span>Complejo Eco-Friendly</span>
                                 </div>
                             </div>
                         </div>
@@ -208,11 +205,10 @@
                         <div class="col xs-margin-35px-bottom wow animate__fadeIn" data-wow-delay="0.6s">
                             <div class="feature-box feature-box-left-icon-middle last-paragraph-no-margin">
                                 <div class="feature-box-icon margin-30px-right line-height-0px lg-margin-25px-right">
-                                    <i class="line-icon-Chair icon-very-medium text-orange2"></i>
+                                    <img id="icons" src="landing/images/icons/Recurso 3.svg" >
                                 </div>
                                 <div class="feature-box-content line-height-22px">
-                                    <div class="text-white alt-font font-weight-500 line-height-20px margin-5px-bottom">Acabados de lujo</div>
-                                    <span>Comprometidos con la calidad</span>
+                                    <span>Equipados con paneles</span>
                                 </div>
                             </div>
                         </div>
@@ -221,11 +217,10 @@
                         <div class="col wow animate__fadeIn" data-wow-delay="0.8s">
                             <div class="feature-box feature-box-left-icon-middle last-paragraph-no-margin">
                                 <div class="feature-box-icon margin-30px-right line-height-0px lg-margin-25px-right">
-                                    <i class="line-icon-Dollar-Sign2 icon-very-medium text-orange2"></i>
+                                    <img id="icons" src="landing/images/icons/Recurso 4.svg" >
                                 </div>
                                 <div class="feature-box-content line-height-22px">
-                                    <div class="text-white alt-font font-weight-500 line-height-20px margin-5px-bottom">Precio increíble</div>
-                                    <span>Calidad y Precio garantizados</span>
+                                    <span>Acceso con código QR</span>
                                 </div>
                             </div>
                         </div>
@@ -459,11 +454,13 @@
                                 <span class="list-hover bg-white box-shadow-small border-radius-5px"></span>
                             </li>
                         </ul>
+                        <br>
+                        <img  src="landing/images/boreana/Recurso 1.svg" alt="logos">
                     </div>
                 </div>
             </div>
         </section>
-        <section id="Distribución   " class="big-section bg-light-gray wow animate__fadeIn">
+        <section id="Distribución" class="big-section bg-light-gray wow animate__fadeIn">
             <div class="container-fluid">
                 <div class="row justify-content-center">
                     <div class="row justify-content-lg-center">
@@ -584,40 +581,6 @@
                         <div class="col-12 filter-content">
                             <ul class="portfolio-classic portfolio-wrapper grid grid-loading grid-3col xl-grid-3col lg-grid-3col md-grid-2col sm-grid-2col xs-grid-1col gutter-extra-large text-center">
                                 <li class="grid-sizer"></li>
-                                <li class="grid-item branding wow animate__fadeIn">
-                                    <div class="portfolio-box border-radius-6px box-shadow-large">
-                                        <div class="portfolio-image bg-transparent-dark-gray">
-                                            <img src="landing/images/boreana/img.jpg" alt="" />
-                                            <div class="portfolio-hover align-items-center justify-content-center d-flex h-100">
-                                                <div class="portfolio-icon">
-                                                    <a href="landing/images/boreana/img.jpg" data-group="portfolio-items" class="lightbox-group-gallery-item text-slate-blue text-slate-blue-hover rounded-circle bg-white"><i class="fas fa-search icon-very-small" aria-hidden="true"></i></a>
-                                                    
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="portfolio-caption bg-white padding-30px-tb lg-padding-20px-tb">
-                                            <a ><span class="alt-font text-extra-dark-gray font-weight-500">Entrada Casa Club </span></a>
-                                            <span class="text-medium text-dark d-block margin-one-bottom">Boreana Smartownhouses</span>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="grid-item branding wow animate__fadeIn" style="visibility: hidden ;" >
-                                    <div class="portfolio-box border-radius-6px box-shadow-large">
-                                        <div class="portfolio-image bg-transparent-dark-gray">
-                                            <img src="landing/images/boreana/img2.jpg" alt="" />
-                                            <div class="portfolio-hover align-items-center justify-content-center d-flex h-100">
-                                                <div class="portfolio-icon">
-                                                    <a href="landing/images/boreana/img2.jpg" data-group="portfolio-items" class="lightbox-group-gallery-item text-slate-blue text-slate-blue-hover rounded-circle bg-white"><i class="fas fa-search icon-very-small" aria-hidden="true"></i></a>
-                                                    
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="portfolio-caption bg-white padding-30px-tb lg-padding-20px-tb">
-                                            <a ><span class="alt-font text-extra-dark-gray font-weight-500">Jogging track </span></a>
-                                            <span class="text-medium text-dark d-block margin-one-bottom">Boreana Smartownhouses</span>
-                                        </div>
-                                    </div>
-                                </li>
                                 <li class="grid-item branding wow animate__fadeIn">
                                     <div class="portfolio-box border-radius-6px box-shadow-large">
                                         <div class="portfolio-image bg-transparent-dark-gray">
@@ -840,7 +803,7 @@
             <div id="container_imagen" class="container">
                 <div class="row justify-content-center">
                     <div class="col-12 col-md-6 text-center margin-2-rem-bottom lg-margin-5-rem-bottom md-margin-4-rem-bottom wow animate__fadeIn">
-                        <h5 class="alt-font font-weight-700 text-center text-uppercase text-dark letter-spacing-minus-1px m-0 mb-3">COTIZA LA DISPONIBILIDAD DE NUESTROS LOTES</h5>
+                        <h5 class="alt-font font-weight-700 text-center text-uppercase text-dark letter-spacing-minus-1px m-0 mb-3">Cotiza la disponibilidad de tu Smart Townhouse</h5>
                     </div>
                     <div class="col-12 margin-four-bottom">
                         <div class="text-center">
@@ -972,7 +935,7 @@
                 
             </div>
         </section>
-        <section>
+        <section id="ubicacion">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-12 col-md-6 text-center margin-2-rem-bottom lg-margin-5-rem-bottom md-margin-4-rem-bottom wow animate__fadeIn">

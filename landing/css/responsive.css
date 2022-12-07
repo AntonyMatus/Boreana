@@ -4798,7 +4798,8 @@
     #tip1{width: 250px}
     #tip2{width: 150px;}
     #tip3{width: 150px;}
-    #tip4{width: 200px;}
+    #tip4{width: 290px; height: 60px; margin-top: 2rem;}
+    #tip22{width: 180px; height: 60px;}
     .title-large-2{font-size: 40px;}
     .broshure { display: grid;}
     .info, .svg {width: 100%;}
@@ -8068,8 +8069,8 @@
 
     .portfolio-box .portfolio-hover {width: 100%;}
 
-    .text-white2 {font-size: 25px; color: #fff; margin: 0; padding-bottom: 10px;}
-    .text-white3 {font-size: 10px; color: #fff; margin-bottom: 0;}
+    .text-white2 {font-size: 25px; color: #fff; margin: 0; }
+    .text-white3 {font-size: 10px; color: #fff; margin-bottom: 0; padding-top: 11px;}
     .carousel-caption{height: auto;}
 
     .h-500px{height: auto;}

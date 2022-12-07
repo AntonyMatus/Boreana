@@ -2372,6 +2372,8 @@ input.btn:focus { border-width: 2px; }
 
 [class^="ti-"], [class*=" ti-"], [class^="line-icon"], [class*=" line-icon"], [class^="solid-icon"], [class*=" solid-icon"] { display: inline-block; }
 
+#icons{ width: 45px; height: 45px;}
+
 /* video icons */
 .video-icon-box { z-index: 1; }
 .video-icon-box > span { display: -webkit-inline-box; display: -ms-inline-flexbox; display: inline-flex; -webkit-box-orient: horizontal; -webkit-box-direction: normal; flex-flow: row wrap; -ms-flex-direction: row wrap; -webkit-box-align: center; -ms-flex-align: center; align-items: center; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; }
