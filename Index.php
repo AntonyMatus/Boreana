@@ -460,6 +460,7 @@
                 </div>
             </div>
         </section>
+        
         <section id="Distribución" class="big-section bg-light-gray wow animate__fadeIn">
             <div class="container-fluid">
                 <div class="row justify-content-center">
@@ -587,7 +588,7 @@
                                             <img src="landing/images/boreana/img3.jpg" alt="" />
                                             <div class="portfolio-hover align-items-center justify-content-center d-flex h-100">
                                                 <div class="portfolio-icon">
-                                                    <a href="landing/images/boreana/img3.jpg" data-group="portfolio-items" class="lightbox-group-gallery-item text-slate-blue text-slate-blue-hover rounded-circle bg-white"><i class="fas fa-search icon-very-small" aria-hidden="true"></i></a>
+                                                    <a href="landing/images/boreana/sport_bar.jpg" data-group="portfolio-items" class="lightbox-group-gallery-item text-slate-blue text-slate-blue-hover rounded-circle bg-white"><i class="fas fa-search icon-very-small" aria-hidden="true"></i></a>
                                                     
                                                 </div>
                                             </div>
@@ -604,7 +605,7 @@
                                             <img src="landing/images/boreana/img4.jpg" alt="" />
                                             <div class="portfolio-hover align-items-center justify-content-center d-flex h-100">
                                                 <div class="portfolio-icon">
-                                                    <a href="landing/images/boreana/img4.jpg" data-group="portfolio-items" class="lightbox-group-gallery-item text-slate-blue text-slate-blue-hover rounded-circle bg-white"><i class="fas fa-search icon-very-small" aria-hidden="true"></i></a>
+                                                    <a href="landing/images/boreana/vista_aeria.jpg" data-group="portfolio-items" class="lightbox-group-gallery-item text-slate-blue text-slate-blue-hover rounded-circle bg-white"><i class="fas fa-search icon-very-small" aria-hidden="true"></i></a>
                                                     
                                                 </div>
                                             </div>
@@ -621,7 +622,7 @@
                                             <img src="landing/images/boreana/img5.jpg" alt="" />
                                             <div class="portfolio-hover align-items-center justify-content-center d-flex h-100">
                                                 <div class="portfolio-icon">
-                                                    <a href="landing/images/boreana/img5.jpg" data-group="portfolio-items" class="lightbox-group-gallery-item text-slate-blue text-slate-blue-hover rounded-circle bg-white"><i class="fas fa-search icon-very-small" aria-hidden="true"></i></a>
+                                                    <a href="landing/images/boreana/fachada_principal.jpg" data-group="portfolio-items" class="lightbox-group-gallery-item text-slate-blue text-slate-blue-hover rounded-circle bg-white"><i class="fas fa-search icon-very-small" aria-hidden="true"></i></a>
                                                     
                                                 </div>
                                             </div>
@@ -638,7 +639,7 @@
                                             <img src="landing/images/boreana/img6.jpg" alt="" />
                                             <div class="portfolio-hover align-items-center justify-content-center d-flex h-100">
                                                 <div class="portfolio-icon">
-                                                    <a href="landing/images/boreana/img6.jpg" data-group="portfolio-items" class="lightbox-group-gallery-item text-slate-blue text-slate-blue-hover rounded-circle bg-white"><i class="fas fa-search icon-very-small" aria-hidden="true"></i></a>
+                                                    <a href="landing/images/boreana/interior_casa_club.jpg" data-group="portfolio-items" class="lightbox-group-gallery-item text-slate-blue text-slate-blue-hover rounded-circle bg-white"><i class="fas fa-search icon-very-small" aria-hidden="true"></i></a>
                                                     
                                                 </div>
                                             </div>
@@ -655,7 +656,7 @@
                                             <img src="landing/images/boreana/img7.jpg" alt="" />
                                             <div class="portfolio-hover align-items-center justify-content-center d-flex h-100">
                                                 <div class="portfolio-icon">
-                                                    <a href="landing/images/boreana/img7.jpg" data-group="portfolio-items" class="lightbox-group-gallery-item text-slate-blue text-slate-blue-hover rounded-circle bg-white"><i class="fas fa-search icon-very-small" aria-hidden="true"></i></a>
+                                                    <a href="landing/images/boreana/pet_zone.jpg" data-group="portfolio-items" class="lightbox-group-gallery-item text-slate-blue text-slate-blue-hover rounded-circle bg-white"><i class="fas fa-search icon-very-small" aria-hidden="true"></i></a>
                                                     
                                                 </div>
                                             </div>
@@ -672,7 +673,7 @@
                                             <img src="landing/images/boreana/img8.jpg" alt="" />
                                             <div class="portfolio-hover align-items-center justify-content-center d-flex h-100">
                                                 <div class="portfolio-icon">
-                                                    <a href="landing/images/boreana/img8.jpg" data-group="portfolio-items" class="lightbox-group-gallery-item text-slate-blue text-slate-blue-hover rounded-circle bg-white"><i class="fas fa-search icon-very-small" aria-hidden="true"></i></a>
+                                                    <a href="landing/images/boreana/canchas_padel.jpg" data-group="portfolio-items" class="lightbox-group-gallery-item text-slate-blue text-slate-blue-hover rounded-circle bg-white"><i class="fas fa-search icon-very-small" aria-hidden="true"></i></a>
                                                     
                                                 </div>
                                             </div>
@@ -689,7 +690,7 @@
                                             <img src="landing/images/boreana/img9.jpg" alt="" />
                                             <div class="portfolio-hover align-items-center justify-content-center d-flex h-100">
                                                 <div class="portfolio-icon">
-                                                    <a href="landing/images/boreana/img9.jpg" data-group="portfolio-items" class="lightbox-group-gallery-item text-slate-blue text-slate-blue-hover rounded-circle bg-white"><i class="fas fa-search icon-very-small" aria-hidden="true"></i></a>
+                                                    <a href="landing/images/boreana/casa_club.jpg" data-group="portfolio-items" class="lightbox-group-gallery-item text-slate-blue text-slate-blue-hover rounded-circle bg-white"><i class="fas fa-search icon-very-small" aria-hidden="true"></i></a>
                                                     
                                                 </div>
                                             </div>
@@ -707,7 +708,7 @@
                                             <img src="landing/images/boreana/img10.jpg" alt="" />
                                             <div class="portfolio-hover align-items-center justify-content-center d-flex h-100">
                                                 <div class="portfolio-icon">
-                                                    <a href="landing/images/boreana/img10.jpg" data-group="portfolio-items" class="lightbox-group-gallery-item text-slate-blue text-slate-blue-hover rounded-circle bg-white"><i class="fas fa-search icon-very-small" aria-hidden="true"></i></a>
+                                                    <a href="landing/images/boreana/casa_club2.jpg" data-group="portfolio-items" class="lightbox-group-gallery-item text-slate-blue text-slate-blue-hover rounded-circle bg-white"><i class="fas fa-search icon-very-small" aria-hidden="true"></i></a>
                                                     
                                                 </div>
                                             </div>
@@ -724,7 +725,7 @@
                                             <img src="landing/images/boreana/img11.jpg" alt="" />
                                             <div class="portfolio-hover align-items-center justify-content-center d-flex h-100">
                                                 <div class="portfolio-icon">
-                                                    <a href="landing/images/boreana/img11.jpg" data-group="portfolio-items" class="lightbox-group-gallery-item text-slate-blue text-slate-blue-hover rounded-circle bg-white"><i class="fas fa-search icon-very-small" aria-hidden="true"></i></a>
+                                                    <a href="landing/images/boreana/sala_comedor.jpg" data-group="portfolio-items" class="lightbox-group-gallery-item text-slate-blue text-slate-blue-hover rounded-circle bg-white"><i class="fas fa-search icon-very-small" aria-hidden="true"></i></a>
                                                     
                                                 </div>
                                             </div>
@@ -741,7 +742,7 @@
                                             <img src="landing/images/boreana/img12.jpg" alt="" />
                                             <div class="portfolio-hover align-items-center justify-content-center d-flex h-100">
                                                 <div class="portfolio-icon">
-                                                    <a href="landing/images/boreana/img12.jpg" data-group="portfolio-items" class="lightbox-group-gallery-item text-slate-blue text-slate-blue-hover rounded-circle bg-white"><i class="fas fa-search icon-very-small" aria-hidden="true"></i></a>
+                                                    <a href="landing/images/boreana/sala_comedor2.jpg" data-group="portfolio-items" class="lightbox-group-gallery-item text-slate-blue text-slate-blue-hover rounded-circle bg-white"><i class="fas fa-search icon-very-small" aria-hidden="true"></i></a>
                                                     
                                                 </div>
                                             </div>
@@ -758,7 +759,7 @@
                                             <img src="landing/images/boreana/img13.jpg" alt="" />
                                             <div class="portfolio-hover align-items-center justify-content-center d-flex h-100">
                                                 <div class="portfolio-icon">
-                                                    <a href="landing/images/boreana/img13.jpg" data-group="portfolio-items" class="lightbox-group-gallery-item text-slate-blue text-slate-blue-hover rounded-circle bg-white"><i class="fas fa-search icon-very-small" aria-hidden="true"></i></a>
+                                                    <a href="landing/images/boreana/area_social.jpg" data-group="portfolio-items" class="lightbox-group-gallery-item text-slate-blue text-slate-blue-hover rounded-circle bg-white"><i class="fas fa-search icon-very-small" aria-hidden="true"></i></a>
                                                     
                                                 </div>
                                             </div>
@@ -775,7 +776,7 @@
                                             <img src="landing/images/boreana/img14.jpg" alt="" />
                                             <div class="portfolio-hover align-items-center justify-content-center d-flex h-100">
                                                 <div class="portfolio-icon">
-                                                    <a href="landing/images/boreana/img14.jpg" data-group="portfolio-items" class="lightbox-group-gallery-item text-slate-blue text-slate-blue-hover rounded-circle bg-white"><i class="fas fa-search icon-very-small" aria-hidden="true"></i></a>
+                                                    <a href="landing/images/boreana/entrada.jpg" data-group="portfolio-items" class="lightbox-group-gallery-item text-slate-blue text-slate-blue-hover rounded-circle bg-white"><i class="fas fa-search icon-very-small" aria-hidden="true"></i></a>
                                                     
                                                 </div>
                                             </div>
