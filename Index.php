@@ -177,18 +177,7 @@
         <section class="half-section margin-four-top">
                 <div class="container">
                     <div class="row row-cols-1 row-cols-lg-4 row-cols-sm-2 justify-content-center">
-                        <!-- start feature box item -->
-                        <div class="col md-margin-40px-bottom xs-margin-35px-bottom wow animate__fadeIn" data-wow-delay="0.2s">
-                            <div class="feature-box feature-box-left-icon-middle last-paragraph-no-margin">
-                                <div class="feature-box-icon margin-30px-right line-height-0px lg-margin-25px-right">
-                                    <img id="icons" src="landing/images/icons/Recurso 1.svg" >
-                                </div>
-                                <div class="feature-box-content line-height-22px">
-                                    <span>Red de Wifi integral</span>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- end feature box item -->
+                        
                         <!-- start feature box item -->
                         <div class="col md-margin-40px-bottom xs-margin-35px-bottom wow animate__fadeIn" data-wow-delay="0.4s">
                             <div class="feature-box feature-box-left-icon-middle last-paragraph-no-margin">
@@ -240,19 +229,19 @@
                     </div>
                     <div class="col-12 col-lg-5 offset-lg-1 col-md-10 wow animate__fadeIn" data-wow-delay="0.4s">
                         <div class="alt-font font-weight-500 margin-30px-bottom d-flex"><span class="flex-shrink-0 w-30px h-1px bg-dark opacity-7 align-self-center margin-20px-right"></span><div class="flex-grow-1"><span class="text-dark text-uppercase">108 SMART TOWNHOUSES </span></div></div>
-                        <h5 class="alt-font text-uppercase text-dark font-weight-700 w-85 margin-30px-bottom xl-w-100">BIENVENIDO A BOREANA<img id="tip1" src="landing/images/cursivas/Recurso 9.png" alt="" > </h5> <br><br>
+                        <h5 class="alt-font text-uppercase text-dark font-weight-700 w-85 margin-30px-bottom xl-w-100">VIVE BOREANA<img id="tip1" src="landing/tipografias/Tu-lugar-ideal.svg" alt="" > </h5> <br><br>
                         <p class="w-75 xl-w-100 text-dark">Boreana es un complejo moderno de 108 townhouses ubicados en una zona de alta plusvalía en la ciudad de Mérida. <br> <br> Gracias a sus atributos y características innovadoras, Boreana es el lugar ideal para comenzar a vivir de manera sostenible, ciudando el medio ambiente y aprovechando los beneficios que el IoT (Internet of things) nos ofrece.</p>
                         <a href="#contacto" class="btn btn-fancy btn-large btn-yellow btn-box-shadow  margin-20px-top">contacto</a>
                     </div>
                 </div>
             </div>
         </section>
-         <!-- start section -->
+        <!-- start section -->
         <section class="big-section overlap-height wow animate__fadeIn">
             <div class="container">
                 <div class="row align-items-center overlap-gap-section">
                     <div class="col-12 col-lg-7 col-md-8 order-md-2 order-lg-1 sm-margin-5-rem-bottom wow animate__fadeIn" data-wow-delay="0.1s">
-                        <h5 class="alt-font text-uppercase text-dark font-weight-700 w-85 margin-30px-bottom xl-w-100">108 SMART TOWNHOUSES<img id="tip11" src="landing/images/cursivas/Recurso%208.png" alt="" > </h5><br><br>                        
+                        <h5 class="alt-font text-uppercase text-dark font-weight-700 w-85 margin-30px-bottom xl-w-100">108 SMART TOWNHOUSES<img id="tip11" src="landing/tipografias/Un-lugar-sostenible.svg" alt="" > </h5><br><br>                        
                         <p class="w-80 lg-w-100">Cada townhouse cuenta con páneles solares, y equipos preparados para instalaciones domóticas; previendo un gran ahorro en el consumo de energía eléctrica y otorgándole el carácter de vivienda inteligente.</p>
                         <br>
                         <div class="row row-cols-1 row-cols-md-4 row-cols-sm-2 align-items-center">
@@ -468,7 +457,7 @@
 
                         <div class="col-12 col-lg-6 col-sm-8 text-lg-center lg-margin-4-rem-bottom md-margin-3-rem-bottom xs-margin-5-rem-bottom wow animate__fadeIn">
                             
-                            <h5 class="alt-font font-weight-700 text-center text-uppercase text-dark letter-spacing-minus-1px m-0 mb-3"><img id="tip3" src="landing/images/cursivas/Recurso 7.png" alt=""> <br> tu próxima Gran inversión</h5>
+                            <h5 class="alt-font font-weight-700 text-center text-uppercase text-dark letter-spacing-minus-1px m-0 mb-3"><img id="tip3" src="landing/tipografias/Conoce.svg" alt=""> <br> tu próxima Gran inversión</h5>
                             <span class="alt-font font-weight-500 text-center text-dark text-uppercase d-block margin-20px-bottom"> Adaptado a tus necesidades</span>
                         </div>
                     </div>
@@ -494,7 +483,7 @@
                                         </div>
                                         <div class="col-md-7 d-grid2">
                                             <div class="row ">
-                                                <p id="subtitulo" class="text-dark m_2 text-center"><img id="tip4" src="landing/images/cursivas/Recurso 6.png" alt="" > </p>
+                                                <p id="subtitulo" class="text-dark m_2 text-center"><img id="tip4" src="landing/tipografias/Modelo115.svg" alt="" > </p>
                                                     
                                             </div>
                                             <div class="row">
@@ -528,7 +517,7 @@
                                         </div>
                                         <div class="col-md-6 d-grid2">
                                             <div class="row ">
-                                                <p id="subtitulo" class="text-dark m_2 text-center"><img id="tip4" src="landing/images/cursivas/Recurso 6.png" alt="" ></p>
+                                                <p id="subtitulo" class="text-dark m_2 text-center"><img id="tip4" src="landing/tipografias/Modelo115.svg" alt="" ></p>
                                             </div>
                                             <div class="row">
                                                 <div id="informacion_modelos" class="col-md-12 mb-4 ">
@@ -559,7 +548,7 @@
                 <div class="row justify-content-center">
                     <div class="col-12 col-md-6 text-center margin-2-rem-bottom lg-margin-5-rem-bottom md-margin-4-rem-bottom wow animate__fadeIn">
                         <span class="alt-font font-weight-500 text-dark text-uppercase d-block margin-10px-bottom">Conoce Boreana</span>
-                        <h5 class="alt-font font-weight-700 text-center text-uppercase text-dark letter-spacing-minus-1px m-0 mb-3">COMPROMETIDOS CON LA <img id="tip2" src="landing/images/cursivas/Recurso 5.png" alt=""> </h5>
+                        <h5 class="alt-font font-weight-700 text-center text-uppercase text-dark letter-spacing-minus-1px m-0 mb-3">COMPROMETIDOS CON LA <img id="tip2" src="landing/tipografias/Calidad.svg" alt=""> </h5>
                     </div>
                 </div>
             </div>
@@ -815,8 +804,8 @@
                     </div>
                 </div>
                 
-                    <div class="col-sm-12  col-md-8 mx-auto text-center" style="background-image: url('landing/images/cotizador/cotizador.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center; padding: 0 !important;" >
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3969.51 2607.93" style="width: 80%; margin-left: 24px; margin-top: 24px; vertical-align: unset; opacity: 0.6;">
+                    <div class="col-sm-12  col-md-8 mx-auto text-center" style="background-image: url('landing/images/cotizador/img-cotizador.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center; padding: 0 !important;" >
+                        <!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3969.51 2607.93" style="width: 80%; margin-left: 24px; margin-top: 24px; vertical-align: unset; opacity: 0.6;">
                             <defs>
                                 <style>.cls-1{fill:#fff;stroke:#1d1d1b;stroke-miterlimit:10;}</style>
                             </defs>
@@ -931,7 +920,7 @@
                                     <polygon class="cls-1" points="3511.98 1046.84 3430.66 1136.44 3575.23 1266.32 3654.29 1178.23 3511.98 1046.84" style="fill: green" />
                                 </g>
                             </g>
-                        </svg>
+                        </svg> -->
                     </div>
                 
             </div>
@@ -940,13 +929,15 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-12 col-md-6 text-center margin-2-rem-bottom lg-margin-5-rem-bottom md-margin-4-rem-bottom wow animate__fadeIn">
-                        <h5 class="alt-font font-weight-700 text-center text-uppercase text-dark letter-spacing-minus-1px m-0 mb-3">Ubicación <br> <img id="tip22" src="landing/images/cursivas/Recurso 4.png" alt=""> </h5>
+                        <h5 class="alt-font font-weight-700 text-center text-uppercase text-dark letter-spacing-minus-1px m-0 mb-3">Ubicación <br> <img id="tip22" src="landing/tipografias/Privilegiada.svg" alt=""> </h5>
                     </div>
+                </div>
+                <div class="row">
+                    <img loading="lazy" src="landing/images/mapa/mapa-boreana.jpg" alt="mapa">
                 </div>
             </div>
         </section>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3723.9368561364704!2d-89.5630777!3d21.0352124!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f56777193713447%3A0xb36f0ddb8e6ec5d6!2sBoreana%20Residencial!5e0!3m2!1ses-419!2smx!4v1669316524467!5m2!1ses-419!2smx" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-        <!-- start section -->
+       <!-- start section -->
         <br><br>
         <!-- start footer -->
         <footer class="padding-six-tb xs-padding-thirteen-tb bg-orange2 pb-4">
