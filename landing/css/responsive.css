@@ -4807,6 +4807,8 @@
     #none {display: none;}
     .portfolio-filter {flex-wrap: inherit;}
     #img{justify-content: center;}
+    .cotizador-svg{width: 87%; margin-left: 18px; margin-top: 12px; vertical-align: sub; opacity: 0.6;}
+
     }
 
 @media (max-width: 767px) {
@@ -8103,7 +8105,7 @@
     .text-white3 {font-size: 10px; color: #292D2B; margin-bottom: 0;}
 
     .a-btn-oc {display: none;}
-}
+   }
 
 @media (max-height: 600px) {
     /* modern menu */

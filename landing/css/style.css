@@ -2373,6 +2373,8 @@ input.btn:focus { border-width: 2px; }
 [class^="ti-"], [class*=" ti-"], [class^="line-icon"], [class*=" line-icon"], [class^="solid-icon"], [class*=" solid-icon"] { display: inline-block; }
 
 #icons{ width: 45px; height: 45px;}
+.cotizador-svg{width: 87%; margin-left: 41px; margin-top: 24px; vertical-align: unset; opacity: 0.6;}
+
 
 /* video icons */
 .video-icon-box { z-index: 1; }

@@ -4,7 +4,7 @@
 
     if (isset($id) && !empty($id)) {
 
-    	require '../../dashboard/backend/connection.php';
+    	require '../../admin/backend/connection.php';
 
 	 	$sql = "SELECT * FROM lots_table where id = $id"; 
 		$query = $connection->prepare($sql); 

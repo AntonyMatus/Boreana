@@ -1,6 +1,6 @@
 
 var lot_id = null
-const url = `${window.location.origin}/Boreana/admin/backend`
+const url = `${window.location.origin}/admin/backend`
 
 const editLot = (id) => {
 

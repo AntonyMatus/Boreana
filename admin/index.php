@@ -59,11 +59,11 @@
                                                             break;
 
                                                         case 2:
-                                                            echo '<span class="badge badge-warning">Apartado</span>';
+                                                            echo '<span class="badge badge-warning">No Disponible</span>';
                                                             break;
 
                                                         case 3:
-                                                            echo '<span class="badge badge-danger">No Disponible</span>';
+                                                            echo '<span class="badge badge-danger">Apartado</span>';
                                                             break;
                                                     
                                                         default:
@@ -176,8 +176,8 @@
                                 <label>Disponibilidad</label>
                                 <select name="available" id="available" class="form-control" required>
                                     <option value="1">Disponible</option>
-                                    <option value="2">Apartado</option>
-                                    <option value="3">No Disponible</option>
+                                    <option value="2">No Disponible</option>
+                                    <option value="3">Apartado</option>
                                 </select>
                             </div>
                             <div id="btn-options" class="form-group">
